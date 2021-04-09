@@ -18,11 +18,11 @@ Know how to implement efficient (vectorized) neural networks.
 Understand the key parameters in a neural network's architecture.
 Code:
 
-Week 2 - Phyton Basics with Numpy
 Week 2 - Logistic Regression with a Neural Network mindset
 Week 3 - Planar data classification with a hidden layer
 Week 4 - Building your Deep Neural Network: Step by Step
 Week 4 - Deep Neural Network: Application
+
 Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 Objectives:
@@ -39,6 +39,7 @@ Week 1 - Regularization
 Week 1 - Gradient Checking
 Week 2 - Optimization
 Week 3 - TensorFlow
+
 Course 3: Structuring Machine Learning Projects
 
 Objectives:
