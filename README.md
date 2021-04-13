@@ -19,8 +19,11 @@ Understand the key parameters in a neural network's architecture.
 Code:
 
 Week 2 - Logistic Regression with a Neural Network mindset
+
 Week 3 - Planar data classification with a hidden layer
+
 Week 4 - Building your Deep Neural Network: Step by Step
+
 Week 4 - Deep Neural Network: Application
 
 Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
