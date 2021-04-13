@@ -38,9 +38,13 @@ Be able to implement a neural network in TensorFlow.
 Code:
 
 Week 1 - Initialization
+
 Week 1 - Regularization
+
 Week 1 - Gradient Checking
+
 Week 2 - Optimization
+
 Week 3 - TensorFlow
 
 Course 3: Structuring Machine Learning Projects
@@ -54,6 +58,7 @@ Know how to apply end-to-end learning, transfer learning, and multi-task learnin
 Code:
 
 There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
+
 Course 4: Convolutional Neural Networks
 
 Objectives:
@@ -65,12 +70,19 @@ Be able to apply these algorithms to a variety of image, video, and other 2D or 
 Code:
 
 Week 1 - Convolutional Model: step by step
+
 Week 1 - Convolutional Model: application
+
 Week 2 - Keras - Tutorial - Happy House
+
 Week 2 - Residual Networks
+
 Week 3 - Autonomous driving application - Car detection
-Week 4 - Face Recognition for the Happy House - v3
-Week 4 - Art Generation with Neural Style Transfer - v2.ipynb
+
+Week 4 - Face Recognition for the Happy House 
+
+Week 4 - Art Generation with Neural Style Transfer 
+
 Course 5: Sequence Models Objectives:
 
 Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
@@ -78,10 +90,16 @@ Be able to apply sequence models to natural language problems, including text sy
 Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
 Code:
 
-Week 1 - Building a Recurrent Neural Network - Step by Step - v3
+Week 1 - Building a Recurrent Neural Network - Step by Step 
+
 Week 1 - Dinosaur Island - Character-Level Language Modeling
+
 Week 1 - Improvise a Jazz Solo with an LSTM Network
-Week 2 - Operations on word vectors - v2
-Week 2 - Emojify - v2
-Week 3 - Neural machine translation with attention - v4
-Week 3 - Trigger word detection - v1
+
+Week 2 - Operations on word vectors 
+
+Week 2 - Emojify 
+
+Week 3 - Neural machine translation with attention 
+
+Week 3 - Trigger word detection 
