@@ -56,7 +56,7 @@ Understand complex ML settings, such as mismatched training/test sets, and compa
 Know how to apply end-to-end learning, transfer learning, and multi-task learning
 Code:
 
-There is no Program Assigments for this course. But this course comes with very interesting case study quizzes.
+There is no Program Assigments for this course. However, does offer case study quizzes.
 
 Course 4: Convolutional Neural Networks
 
